@@ -1,0 +1,36 @@
+Welcome to DrRacket, version 6.11 [3m].
+Language: racket, with debugging; memory limit: 128 MB.
+77
+19
+7/20
+-1.1333333333333333
+23
+7
+5.3
+13.799999999999999
+1/2
+1059034001
+2.005e-06
+'big-number
+'cardinals
+'ball-state
+1059034001
+'big-number
+'number1
+'cardinals
+'ball-state
+'symbol2
+'a
+'b
+'c
+'d
+'x
+'x
+'x
+'a
+'((b c) d e)
+'(f g)
+5
+3
+1
+> 

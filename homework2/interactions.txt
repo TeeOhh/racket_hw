@@ -1,0 +1,19 @@
+Welcome to DrRacket, version 6.11 [3m].
+Language: racket, with debugging; memory limit: 128 MB.
+> (inches->meters 31)
+0.7873995748042296
+> (pounds->kilograms 23)
+10.432636917019714
+> (ladder-height 5 3)
+4
+> (candy-temperature 23 500)
+22
+> (in-range? 3.22 4.9 .3)
+#f
+> (in-range? 5.2 5.5 .5)
+#t
+> (body-mass-index 68 240)
+36.49158348178169
+> (body-mass-index 71 175)
+24.407350850904038
+> 
